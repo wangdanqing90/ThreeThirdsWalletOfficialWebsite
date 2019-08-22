@@ -1,1 +1,1 @@
-# ThreeThirdsWalletOfficialWebsite
+# 三分钱包官网静态页面
